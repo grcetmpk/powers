@@ -1,6 +1,6 @@
 Package: powers
 Title: Easy computation of powers
-Version: 0.0.0.9000
+Version: 0.0.0.1
 Authors@R: 
     person("Grace", "Tompkins", , "grace.tompkins@ubc.ca", role = c("aut", "cre"))
 Description: Calculates various powers of numeric data (squares, cubics, etc)
