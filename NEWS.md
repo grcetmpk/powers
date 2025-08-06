@@ -1,3 +1,3 @@
-# powers (development version)
+3# powers (development version)
 
 * Initial CRAN submission.
