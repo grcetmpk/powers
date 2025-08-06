@@ -1,11 +1,17 @@
 Package: powers
-Title: What the Package Does (One Line, Title Case)
+Title: Easy computation of powers
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Grace", "Tompkins", , "grace.tompkins@ubc.ca", role = c("aut", "cre"))
+Description: Calculates various powers of numeric data (squares, cubics, etc)
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    dplyr
+URL: https://github.com/grcetmpk/powers
+BugReports: https://github.com/grcetmpk/powers/issues
