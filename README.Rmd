@@ -1,0 +1,45 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# powers
+
+This is a minimal working example of my first R package for STAT545!
+
+
+The goal of powers is to easily compute common powers of numeric data. 
+
+## Installation
+
+You can install the development version of powers like so:
+
+``` r
+devtools::install_github("grcetmpk/powers")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(powers)
+## basic example code
+
+square(1)
+
+square(c(1,2,3,4))
+
+```
+
+
