@@ -13,7 +13,7 @@ square(x)
 numeric, vector
 }
 \description{
-Squares numeric data (single a number, or a numeric vector)
+Squares numeric data (single a number, or a numeric vector).
 }
 \examples{
 square(5)
