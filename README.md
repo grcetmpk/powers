@@ -1,8 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# powers
-
 <!-- badges: start -->
 
 <!-- badges: end -->
@@ -25,7 +23,6 @@ from the `powers` package.
 
 ``` r
 library(powers)
-
 # square a single numeric 
 square(4)
 #> [1] 16
