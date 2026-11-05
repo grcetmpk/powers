@@ -16,4 +16,7 @@ Squares a single value or a vector
 square(4)
 square(c(1,2,3))
 
+library(palmerpenguins)
+square(penguins$bill_length_mm)
+
 }

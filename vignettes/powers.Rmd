@@ -1,0 +1,26 @@
+---
+title: "powers"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{powers}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(powers)
+```
+
+
+Here is where you'd write a nice tutorial for users to use your package. See an example [here](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
+
+
+sdjfhsdkjfhsdkfjhsdkjskdfjhsdkfjh
+ 
